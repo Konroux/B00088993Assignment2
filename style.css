@@ -1,0 +1,55 @@
+.jumbotron
+          {
+          	color: white;
+          	background-color: 	#333333;
+          	font-family: courier;
+          	margin-top: 0%;
+          	padding-top: 0%;
+
+
+
+          }
+
+.navbar {
+
+
+}
+
+body {
+	   background-color: #1a1a1a;
+}
+
+.text-muted {
+  color: #b30000;
+}
+
+.lead {
+  color: #a6a6a6;
+}
+
+.btn {
+	   margin-left: 390px;
+}
+
+.sub1 {
+	    margin-left: 390px;
+}
+
+
+.row {
+	  color:  #a6a6a6;
+}
+
+a {
+	color: #b30000;
+}
+
+.page-header {
+	           color: #b30000;
+
+
+	}
+
+h3 {
+	color: #b30000;
+}
